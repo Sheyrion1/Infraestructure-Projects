@@ -1,4 +1,13 @@
 <p align="center">
+
+🛰️ **FLOWIT-AR | INFRASTRUCTURE PROJECTS** 🧠  
+_Professional IT Engineering & Network Design_  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Sheyrion1/Sheyrion1/main/assets/banner_infra_projects.png" alt="Infraestructure Projects Banner" width="100%" />
 </p>
 
